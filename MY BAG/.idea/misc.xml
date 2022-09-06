@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/activity_details_baby_bag.xml" value="0.33" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/activity_details_picnic_bag.xml" value="0.24230072463768115" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/activity_details_school_bag.xml" value="0.33" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/activity_details_travel_bag.xml" value="0.33" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/activity_first_page.xml" value="0.22" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/activity_home.xml" value="0.2930253623188406" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/activity_log_in.xml" value="0.33" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/activity_main.xml" value="0.346875" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/activity_main_app.xml" value="0.33" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/activity_school_bag_details.xml" value="0.25" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/activity_school_bag_detalis.xml" value="0.3625" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/activity_sign_up.xml" value="0.34375" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/bag_row.xml" value="0.33" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/fragment_acc.xml" value="0.2930253623188406" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/fragment_calender.xml" value="0.2921195652173913" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/fragment_contact.xml" value="0.33" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/fragment_help.xml" value="0.2921195652173913" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/school_bag_raw.xml" value="0.33" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/layout/travel_bag_raw.xml" value="0.33469202898550726" />
+        <entry key="..\:/kw.code/MY BAG/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1085" />
+        <entry key="..\:/kw.code/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
