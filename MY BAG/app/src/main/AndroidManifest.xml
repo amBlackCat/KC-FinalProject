@@ -14,6 +14,9 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
+            android:name=".School_editSubjects"
+            android:exported="false" />
+        <activity
             android:name=".Details_babyBag"
             android:exported="false" />
         <activity

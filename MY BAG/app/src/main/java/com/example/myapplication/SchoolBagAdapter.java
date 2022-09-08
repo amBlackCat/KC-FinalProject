@@ -1,10 +1,13 @@
 package com.example.myapplication;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -17,9 +20,17 @@ public class SchoolBagAdapter extends ArrayAdapter {
 
     List<Days> schoolBagList;
 
+    private Context context;
+
+
+
+
+
 
     public SchoolBagAdapter(@NonNull Context context, int resource, @NonNull List objects) {
         super(context, resource, objects);
+
+
 
         schoolBagList = objects;
     }
@@ -30,13 +41,20 @@ public class SchoolBagAdapter extends ArrayAdapter {
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
 
         View notSchoolBag = LayoutInflater.from(getContext()).inflate(R.layout.school_bag_raw, parent, false);
-
         Days cuurentSchoolBag = schoolBagList.get(position);
 
+        // // // //
 
         TextView dayText = notSchoolBag.findViewById(R.id.dayShow);
-
         dayText.setText(cuurentSchoolBag.getDay());
+
+        // // // // //
+
+
+
+
+        // // // // //
+
 
 
         return notSchoolBag;

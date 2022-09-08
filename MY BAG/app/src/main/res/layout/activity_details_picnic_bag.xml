@@ -18,4 +18,27 @@
         android:layout_marginTop="0dp"
         android:layout_marginEnd="0dp"
         app:srcCompat="@drawable/picnic_bag_lebal" />
+
+    <ListView
+        android:id="@+id/listViewPicnic"
+        android:layout_width="match_parent"
+        android:layout_height="602dp"
+        android:layout_below="@+id/imageView8"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="2dp" />
+
+    <ImageView
+        android:id="@+id/picnicBtnBack"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="362dp"
+        android:layout_marginBottom="611dp"
+        app:srcCompat="@drawable/icons8_left_arrow_64" />
 </RelativeLayout>

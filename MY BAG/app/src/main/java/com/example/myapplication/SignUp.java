@@ -25,6 +25,20 @@ public class SignUp extends AppCompatActivity {
             }
         });
 
+         ImageView nextPage = findViewById(R.id.btn_signup);
+
+
+        nextPage.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                Intent nextPage = new Intent(SignUp.this, MainApp.class);
+                startActivity(nextPage);
+            }
+        });
+
+
+
 
     }
 }
